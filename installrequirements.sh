@@ -1,0 +1,1 @@
+sudo apt install libboost-all-dev ninja-build libprotobuf-dev libusb-1.0-0-dev openssl cmake gcc g++ libqt5-core 

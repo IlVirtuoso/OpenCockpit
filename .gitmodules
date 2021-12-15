@@ -1,0 +1,3 @@
+[submodule "aasdk"]
+	path = aasdk
+	url = https://github.com/f1xpl/aasdk
