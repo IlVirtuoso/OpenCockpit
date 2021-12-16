@@ -1,0 +1,2 @@
+protobuf tutorial: https://developers.google.com/protocol-buffers/docs/cpptutorial
+android auto source development kit: https://github.com/f1xpl/aasdk
