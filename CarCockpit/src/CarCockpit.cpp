@@ -1,8 +1,7 @@
 ﻿// CarCockpit.cpp: definisce il punto di ingresso dell'applicazione.
 //
 
-#include "CarCockpit.h"
-
+#include <CarCockpit.h>
 using namespace std;
 
 int main()
