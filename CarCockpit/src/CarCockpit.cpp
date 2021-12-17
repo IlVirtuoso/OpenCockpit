@@ -2,10 +2,12 @@
 //
 
 #include <CarCockpit.h>
+#include <QApplication>
 using namespace std;
 
-int main()
+int main(int argc, char* argv[])
 {
-	cout << "Hello CMake." << endl;
-	return 0;
+	QApplication a(argc, argv);
+	//window manager goes there
+	return a.exec();
 }
