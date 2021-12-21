@@ -3,12 +3,12 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("CarCockpit")
+project ("OpenCockpit")
 
 set(TARGET_ARCH "amd64")
 # Includere i sottoprogetti.
 add_subdirectory ("aasdk")
 
+add_subdirectory("openauto")
 
-
-add_subdirectory ("CarCockpit")
+add_subdirectory ("OpenCockpit")

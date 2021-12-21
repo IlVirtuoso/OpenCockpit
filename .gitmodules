@@ -1,3 +1,6 @@
 [submodule "aasdk"]
 	path = aasdk
 	url = https://github.com/opencardev/aasdk
+[submodule "openauto"]
+	path = openauto
+	url = https://github.com/IlVirtuoso/openauto
